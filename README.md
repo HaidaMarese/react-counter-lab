@@ -1,4 +1,4 @@
-# React Counter Lab (Lab 1)
+# React-Counter Lab (Lab 1)
 
 An advanced counter application built using React, JavaScript, and Tailwind CSS. This lab demonstrates use of `useState` and `useEffect` with side effects, cleanup, and event listeners.
 
