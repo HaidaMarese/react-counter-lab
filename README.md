@@ -22,6 +22,9 @@ An advanced counter application built using React, JavaScript, and Tailwind CSS.
 
 ##  Screenshot
 
+![image](https://github.com/user-attachments/assets/f3f74275-3de5-4083-b2d3-623cef21af59)
+
+
 ## Project Structure
 ```
 src/
